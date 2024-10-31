@@ -20,7 +20,7 @@ We are assuming all secrets for our project are handled with AWS Secrets Manager
 
 Secret name will be converted into an environment variable name replacing `/` with `_` and making all letters upercase. For example secret `prod/db0/mariano` becomes env variable `PROD_DB0_MARIANO`.
 
-All sensitive env variables are then stored into `.envrc-secrets`, which is in `.gitignore`.
+All sensitive env variables are then stored into `.envrc-secrets`, which is included in `.gitignore`.
 
 ## AWS cli setup
 
