@@ -32,6 +32,7 @@ assumming an AWS account with the right access has been provisioned for them).
 
 Here's a recording of how it would look for a newcomer to the project:
 
+![20241031](https://github.com/user-attachments/assets/a95181e8-fb8f-467a-bdce-ec4e86bc3ffd)
 
 
 ## What could be improved?
