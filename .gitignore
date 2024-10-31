@@ -1,0 +1,7 @@
+.DS_Store
+.envrc-secrets
+.direnv
+
+# AWS credentials
+.aws/
+.aws-config/config

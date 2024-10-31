@@ -1,0 +1,11 @@
+[profile default]
+sso_region = us-east-1
+region = us-east-1
+sso_start_url = https://d-1234567890.awsapps.com/start
+output = json
+sso_session = default
+
+[sso-session default]
+sso_start_url = https://d-1234567890.awsapps.com/start
+sso_region = us-east-1
+sso_registration_scopes = sso:account:access
